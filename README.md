@@ -139,8 +139,8 @@ Cost (# of transistors): 78
 | 파일 | 용도 |
 | --- | --- |
 | `README.md` | 프로젝트 설명 및 수정·검증 내역 |
-| `QMalgorithm.cpp` | 수정한 독립 실행형 소스 |
-| `QMalgorithm_origin.cpp` | 제공된 원본 소스, 비교용 |
+| `QMalgorithm.cpp` | 수정한 프로젝트 소스 |
+| `QMalgorithm_origin.cpp` | 기존 프로젝트 소스, 비교용 |
 | `input_minterm.txt` | 제공된 원본 입력 |
 | `result.txt` | 제공된 원본 결과 |
 | `result2.txt` | 제공된 입력에 대한 수정본의 검증 결과 |
